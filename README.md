@@ -63,11 +63,8 @@ A simulated AI-powered chatbot that extracts financial insights from 10-K and 10
 
 ## 📊 GitHub Stats
 
-![Yashas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashas007-afk&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashas007-afk&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashas007-afk&theme=github-dark)
 
 
 ---
