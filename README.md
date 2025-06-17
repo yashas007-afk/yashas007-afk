@@ -2,28 +2,6 @@
 
 🎓 I'm a Computer Science undergraduate at **Dayananda Sagar University**, passionate about **Full-Stack Development**, **Artificial Intelligence**, and solving real-world problems through tech. I thrive on building impactful solutions and love exploring new tools, frameworks, and challenges!
 
----
-
-## 🚀 Projects
-
-🔹 **[Real-Time Driver Drowsiness Detection](https://github.com/yashas007-afk/Real-Time-Drowsiness-Detection.git)**  
-A safety-critical app that monitors facial features to detect driver fatigue using OpenCV, dlib, and deep learning.  
-*Tech Used:* Python, OpenCV, dlib, Deep Learning
-
-🔹 **[Event Booking System](https://github.com/yashas007-afk/Event-Booking-system-.git)**  
-A Django-based web app for users to browse and book events with full authentication and CRUD functionality.  
-*Tech Used:* Django, SQLite, HTML/CSS, Python
-
-🔹 **[Spotify-like Music Website](https://github.com/yashas007-afk/Spotify-CRUD-operations.git)**  
-Web application for managing personal music collections with real-time updates and backend optimization.  
-*Tech Used:* PHP, Node.js, JavaScript
-
-🔹 **[GenAI Financial Chatbot – BCG Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_g3ktWjdzoqoyTML26_1744385514225_completion_certificate.pdf)**  
-A simulated AI-powered chatbot that extracts financial insights from 10-K and 10-Q documents.  
-*Tech Used:* Python, Pandas, Prompt Engineering
-
----
-
 ## 🛠️ Skills
 
 **Languages:** Java, Python, C, C++, JavaScript, PHP  
